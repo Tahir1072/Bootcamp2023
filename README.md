@@ -19,7 +19,7 @@ Takım Unity 55
 
 ## Product Backlog URL
 
-[Unity Team 55 Trello Backlog Board](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/trello.png)
+[Unity Team 55 Trello Backlog Board](https://trello.com/invite/b/kOP6MuWH/ATTIb0abe5028a2a98c76beb864b4aa3f8aa16FF3BB8/u-55-bootcamp)
 
 ## Ürün Açıklaması
 
