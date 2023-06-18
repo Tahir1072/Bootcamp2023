@@ -26,12 +26,12 @@ Takım Unity 55
 Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 1517 yılında 55 yaşında olan bir papazı yönetiyoruz. Papazımız lanetlnemiş köyleri lanetten kurtaran, köy köy kasaba kasaba dolaşan bir adamdır. Bir kasabaya laneti kaldırmak için atıyla yola düşer. Karakterimiz köydeki laneti kaldırmaya çalışırken orada farklı bir varlığın oldunu sezer. Oyunun ana amacı bu varlıktan kaçınarak laneti kaldırmaya çalışmasıdır. Oyun içinde puzzle çözme , eşyalar ve mekanlar ile etkileşime girme ve ipuçlarını takip ederek ayin için gerekli malzemeleri bulma gibi bir takım mekanikler vardır. Ayrıca seslendirme ile karakterin olaylara karşı yorum yapması vb. özellikler de barındırır.
 
 ## Ürün Özellikleri
--Kullanıcıyı oyuna odaklayan ve dehşete düşürmesi.
--Oyunun belirli bir hikaye üzerine kurulu olması.
--Ayin yapma,büyücülük gibi mantık dışı şeylerin işlenmesi
--Mitolojik varlık ile oyuncuya her saniye ilmek ilmek korkunun işlenmesi.
--Kanlı sahneler ve tasarımlar ile oyunu daha gerçekçi hale getirmesi.
--Low Poly tasarımı ile göz yormaması ve yaşı küçük oyuncular için oynanabilir olması
+- Kullanıcıyı oyuna odaklayan ve dehşete düşürmesi.  
+- Oyunun belirli bir hikaye üzerine kurulu olması.  
+- Ayin yapma,büyücülük gibi mantık dışı şeylerin işlenmesi.  
+- Mitolojik varlık ile oyuncuya her saniye ilmek ilmek korkunun işlenmesi.  
+- Kanlı sahneler ve tasarımlar ile oyunu daha gerçekçi hale getirmesi.  
+- Low Poly tasarımı ile göz yormaması ve yaşı küçük oyuncular için oynanabilir olması.
 ## Hedef Kitle
 - Farklı bir korku oyunu tasarımı arayan oyuncular
 - Adrenilen seven oyuncular
