@@ -41,7 +41,7 @@ Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 15
 
 ## Juriye Not
 
-Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasını tercih ettik.
+Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasını tercih ettik. User Story'ler Sprint Backlog'ların içine yazılmıştır.
 
 
 ---
