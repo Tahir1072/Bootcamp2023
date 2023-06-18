@@ -36,7 +36,7 @@ Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 15
 - Farklı bir korku oyunu tasarımı arayan oyuncular
 - Adrenilen seven oyuncular
 - Evde oturmaktan sıkılanlar
-- Mitolojik yaratıkları ve doğaüstü olayları severler.
+- Mitolojik yaratıkları ve doğaüstü olayları sevenler.
 - 10-30 yaş arası oyuncular
 
 ## Juriye Not
