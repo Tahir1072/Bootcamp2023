@@ -19,7 +19,7 @@ Takım Unity 55
 
 ## Product Backlog URL
 
-
+[Unity Team 55 Trello Backlog Board](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/trello.png)
 
 ## Ürün Açıklaması
 
@@ -38,9 +38,39 @@ Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 15
 -Yürüme sim
 
 ## Hedef Kitle
-
 - 10-30 yaş arası adrenalin ve korku severlere 
 
 ## Juriye Not
 
 ilk spirnti daha çok hikaye ve proje fikrini fütursuzca geliştirmeye adadık. Bir kaç model üzerinde ise karar kılmayı başardık. 2. sprintte ise oyunumuzun çoğu mekaniğini bitirmeyi hedefliyoruz.
+
+
+---
+# Sprint 1
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/trello.png)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/kulube.png)
+  ![Screenshot 2](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/ed.png)
+- **Sprint Review**: 
+Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Readme dosyası düzenlenmiştir. Sprint Review katılımcıları: Tahiri Fidan
+
+- **Sprint Retrospective:**
+  - Toplantılara katılımın önemi vurgulanmıştır.
+  - Görev atamaları yapılmış ve deadlinelar belirlenmiiştir.
+  - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
+  - Proje yapım hızının arttırılması gerektiği kararlaştırılmıştır.
+
+
+---
