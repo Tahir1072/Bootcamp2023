@@ -47,7 +47,7 @@ Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasın�
 ---
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
