@@ -59,7 +59,7 @@ Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasın�
   ![Screenshot 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/kulube.png)
   ![Screenshot 2](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/ed.png)
 - **Sprint Review**: 
-Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Readme dosyası düzenlenmiştir. Düzenli toplantı yapılması başarısız olmuştur. Ancak whatsapp kullanımı iletşimi hızlandırmıştır.Ana fikir üzerinde anlaşılmış ve sprint görevleri tamamlanmıştır. Sprint Review katılımcıları: Tahiri Fidan
+Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Readme dosyası düzenlenmiştir. Düzenli toplantı yapılması başarısız olmuştur. Ancak whatsapp kullanımı iletişimi hızlandırmıştır.Ana fikir üzerinde anlaşılmış ve sprint görevleri tamamlanmıştır. Sprint Review katılımcıları: Tahiri Fidan
 - **Sprint Retrospective:**
   - Toplantıların katılım az ve düzensiz olması ele alınmış ve gerekli iyileştirilmelerin yapılması gerektiğine karar verilmiştir.
   - Görev atamaları yapılmış ve deadlinelar belirlenmiiştir.
