@@ -53,7 +53,7 @@ Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasın�
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/trello.png)
+![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Trello1.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/kulube.png)
