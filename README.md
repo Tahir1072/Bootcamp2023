@@ -23,26 +23,25 @@ Takım Unity 55
 
 ## Ürün Açıklaması
 
-Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 1517 yılında 55 yaşında olan bir papazı yönetiyoruz. Papazımız özel bir eğitim almıştır. Bir kasabaya laneti kaldırmak için atıyla yola düşer. Kasabaya varır ve olaylar başlar. Korkuyu damarlarında hisseder fakat bu laneti kaldırmak sadece onun elindedir.
+Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 1517 yılında 55 yaşında olan bir papazı yönetiyoruz. Papazımız lanetlnemiş köyleri lanetten kurtaran, köy köy kasaba kasaba dolaşan bir adamdır. Bir kasabaya laneti kaldırmak için atıyla yola düşer. Karakterimiz köydeki laneti kaldırmaya çalışırken orada farklı bir varlığın oldunu sezer. Oyunun ana amacı bu varlıktan kaçınarak laneti kaldırmaya çalışmasıdır. Oyun içinde puzzle çözme , eşyalar ve mekanlar ile etkileşime girme ve ipuçlarını takip ederek ayin için gerekli malzemeleri bulma gibi bir takım mekanikler vardır. Ayrıca seslendirme ile karakterin olaylara karşı yorum yapması vb. özellikler de barındırır.
 
-
-- **Oyunun birincil fonksiyonu**: Oyunda bir yaratıktan kaçacağız. bir kaç parça eşya toplayıp ayin yapmaya çalışacağız.
-- 
 ## Ürün Özellikleri
--Korkunç
--low poly
--hikayesel
--exorcism
--mitolojik
--Kanlı
--Yürüme sim
-
+-Kullanıcıyı oyuna odaklayan ve dehşete düşürmesi.
+-Oyunun belirli bir hikaye üzerine kurulu olması.
+-Ayin yapma,büyücülük gibi mantık dışı şeylerin işlenmesi
+-Mitolojik varlık ile oyuncuya her saniye ilmek ilmek korkunun işlenmesi.
+-Kanlı sahneler ve tasarımlar ile oyunu daha gerçekçi hale getirmesi.
+-Low Poly tasarımı ile göz yormaması ve yaşı küçük oyuncular için oynanabilir olması
 ## Hedef Kitle
-- 10-30 yaş arası adrenalin ve korku severlere 
+- Farklı bir korku oyunu tasarımı arayan oyuncular
+- Adrenilen seven oyuncular
+- Evde oturmaktan sıkılanlar
+- Mitolojik yaratıkları ve doğaüstü olayları severler.
+- 10-30 yaş arası oyuncular
 
 ## Juriye Not
 
-ilk spirnti daha çok hikaye ve proje fikrini fütursuzca geliştirmeye adadık. Bir kaç model üzerinde ise karar kılmayı başardık. 2. sprintte ise oyunumuzun çoğu mekaniğini bitirmeyi hedefliyoruz.
+Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasını tercih ettik.
 
 
 ---
@@ -53,24 +52,19 @@ ilk spirnti daha çok hikaye ve proje fikrini fütursuzca geliştirmeye adadık.
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
 
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/trello.png)
-
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/kulube.png)
   ![Screenshot 2](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/ed.png)
 - **Sprint Review**: 
-Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Readme dosyası düzenlenmiştir. Sprint Review katılımcıları: Tahiri Fidan
-
+Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Readme dosyası düzenlenmiştir. Düzenli toplantı yapılması başarısız olmuştur. Ancak whatsapp kullanımı iletşimi hızlandırmıştır.Ana fikir üzerinde anlaşılmış ve sprint görevleri tamamlanmıştır.Sprint Review katılımcıları: Tahiri Fidan
 - **Sprint Retrospective:**
-  - Toplantılara katılımın önemi vurgulanmıştır.
+  - Toplantıların katılım az ve düzensiz olması ele alınmış ve gerekli iyileştirilmelerin yapılması gerektiğine karar verilmiştir.
   - Görev atamaları yapılmış ve deadlinelar belirlenmiiştir.
   - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
-  - Proje yapım hızının arttırılması gerektiği kararlaştırılmıştır.
+  - Proje yapım hızının yavaş olduğu ve proje ciddiyetinin kavranmadığı gözlenmiştir. Ancak herkes genel olarak hemfikirdir.
 
 
 ---
