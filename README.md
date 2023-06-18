@@ -41,7 +41,7 @@ Town Massacre bir birinci şahıs açısından oynanan korku oyunudur. Oyunda 15
 
 ## Juriye Not
 
-Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasını tercih ettik. User Story'ler Sprint Backlog'ların içine yazılmıştır.
+Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasını tercih ettik. Proje yönetimi uygulaması olarak Trello seçilmiştir ve görev dağımları,sprint backloglar kanban tekniği kullanılarak düzenlenmiştir. Her bir sprint backlog listesinin içine yazılmış kartların ayrıntılarına tıklayarak user story'ler ve kapsamlı açıklmalar okunabilir. Trello tablosu linki "Product Backlog URL" altında ve her sprint sonu paylaşılmıştır.
 
 
 ---
@@ -66,5 +66,5 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
   - Takım üyelerinin gelecek sprintlerde daha aktif olması gerektiğine vurgu yapılmıştır.
   - Proje yapım hızının yavaş olduğu ve proje ciddiyetinin kavranmadığı gözlenmiştir. Ancak herkes genel olarak hemfikirdir.
 
-
+[Unity Team 55 Trello Backlog Board](https://trello.com/invite/b/kOP6MuWH/ATTIb0abe5028a2a98c76beb864b4aa3f8aa16FF3BB8/u-55-bootcamp)
 ---
