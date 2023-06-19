@@ -46,14 +46,15 @@ Daily Scrum yazışmalarını paylaşmıyoruz. Bunların özel olarak kalmasın�
 
 ---
 # Sprint 1
+- **Sprint Notları**: Sprint backlog listesinin içine yazılmış kartların ayrıntılarına tıklayarak user story'ler ve kapsamlı açıklmalar okunabilir. Trello tablosu linki sprint sonu paylaşılmıştır. Belirlenen görevlerin karmaşıklığına ve gerçekleştirilmesi gereken iş miktarına dayanarak puanlama yapılmıştır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 410 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 60 ile başlaması gerektiğine karar verildi.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Trello.png)
+![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/TrelloSon.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/kulube.png)
