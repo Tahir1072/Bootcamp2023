@@ -71,4 +71,16 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
 ---
 # Sprint 2
 - **Sprint İçinde tamamlanması tahmin edilen puan**: 150 Puan
-- **Daily Scrum**: Daily Scrum toplantıları iki günde bir Whatsapp'tan ve Discord üzerinden herkesin yaptığını atmasıyla devam etmektedir. Bu görüntüleri jpeg ve word olarak sizlere sunuyoruz:
+- **Daily Scrum**: Daily Scrum toplantıları iki günde bir Whatsapp'tan ve Discord üzerinden herkesin yaptığını atmasıyla devam etmektedir. Bu görüntüleri jpeg ve word olarak sizlere sunuyoruz:[Daily Scrum Notes Sprint 2](https://github.com/Tahir1072/Bootcamp2023/blob/main/ProjectManagement/Sprints/Sprints%202/Daily%20Scrum%20Notes%20Sprint%202.docx)
+- **Sprint Board Update**:
+- **Ürün Durumu**: Ekran görüntüleri:
+ ![Screenshot 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Blender%201.jpg)
+ ![Screenshot 2](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Blender%202.jpg)
+ ![Screenshot 3](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Blender%203.jpg)
+ ![Screenshot 4](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Blender%204.jpg)
+ ![Screenshot 5](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/ScItem.jpg)
+ ![Screenshot 6](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/unity%20inventory.jpg)
+ ![Screenshot 7]()
+
+ 
+
