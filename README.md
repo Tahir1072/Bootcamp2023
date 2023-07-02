@@ -69,3 +69,6 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
 
 [Unity Team 55 Trello Backlog Board](https://trello.com/invite/b/kOP6MuWH/ATTIb0abe5028a2a98c76beb864b4aa3f8aa16FF3BB8/u-55-bootcamp)
 ---
+# Sprint 2
+- **Sprint İçinde tamamlanması tahmin edilen puan**: 150 Puan
+- **Daily Scrum**: Daily Scrum toplantıları iki günde bir Whatsapp'tan ve Discord üzerinden herkesin yaptığını atmasıyla devam etmektedir. Bu görüntüleri jpeg ve word olarak sizlere sunuyoruz:
