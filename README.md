@@ -72,7 +72,9 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
 # Sprint 2
 - **Sprint İçinde tamamlanması tahmin edilen puan**: 150 Puan
 - **Daily Scrum**: Daily Scrum toplantıları iki günde bir Whatsapp'tan ve Discord üzerinden herkesin yaptığını atmasıyla devam etmektedir. Bu görüntüleri jpeg ve word olarak sizlere sunuyoruz:[Daily Scrum Notes Sprint 2](https://github.com/Tahir1072/Bootcamp2023/blob/main/ProjectManagement/Sprints/Sprints%202/Daily%20Scrum%20Notes%20Sprint%202.docx)
-- **Sprint Board Update**:
+- **Sprint Board Update**: Sprint board Screenshotları:
+![Backlog 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Trello%20Spr%202.png)
+- 
 - **Ürün Durumu**: Ekran görüntüleri:
  ![Screenshot 1](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Blender%201.jpg)
  ![Screenshot 2](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Blender%202.jpg)
@@ -81,7 +83,13 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
  ![Screenshot 5](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/ScItem.jpg)
  ![Screenshot 6](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/unity%20inventory.jpg)
  ![Screenshot 7](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Gaz%20lambası.png)
-- **Sprint Review: Alınan kararlar: 
+- **Sprint Review: Alınan kararlar: Scrum toplantılarını 2 günde 1 Whatsapp ve Discord üzerinden paylaşılmasına karar verildi. Boş olunan vakitlerde birlikte çalışılması öngörüldü. Bitmemiş kodlar ve assetleri bitirmek ilk iş olarak yapılması kararı alındı. Birleştirme işi ise 1 haftaya kadar yapılması öngörülüyor. Sprint Review katılımcıları: Zeynep KIZILAY,Ahmet Önder ÇELİK
+- **Sprint Retrospective:
+- Takım üyelerinin aktif olmaması projeyi çok yavaşlatıp durma noktasına getirdi.
+- Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmış ve serzenişlerde bulunulmuştur.
+
+[Unity Team 55 Trello Backlog Board](https://trello.com/b/kOP6MuWH/u-55-bootcamp)
+---
  
 
  
