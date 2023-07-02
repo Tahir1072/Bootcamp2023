@@ -80,7 +80,9 @@ Alınan kararlar: Proje oluşturulmuş, yapılacak görevler incelenmiş ve Read
  ![Screenshot 4](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Blender%204.jpg)
  ![Screenshot 5](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/ScItem.jpg)
  ![Screenshot 6](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/unity%20inventory.jpg)
- ![Screenshot 7]()
+ ![Screenshot 7](https://github.com/Tahir1072/Bootcamp2023/blob/main/Images/Gaz%20lambası.png)
+- **Sprint Review: Alınan kararlar: 
+ 
 
  
 
